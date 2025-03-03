@@ -2,7 +2,8 @@
 
 Este repositório contém o projeto de uma página de receitas desenvolvida com fundamentos iniciais de **HTML** e **CSS**. O objetivo do projeto é criar uma interface simples e funcional, ideal para quem está começando a aprender sobre desenvolvimento web.
 
-![Descrição da imagem](assets/photoProject.png)
+[![Descrição da imagem](assets/photoProject.png)](https://mbaprojetopaginareceita.hallanchristian.com.br)
+
 
 ## Descrição
 
