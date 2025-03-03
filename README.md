@@ -2,6 +2,8 @@
 
 Este repositório contém o projeto de uma página de receitas desenvolvida com fundamentos iniciais de **HTML** e **CSS**. O objetivo do projeto é criar uma interface simples e funcional, ideal para quem está começando a aprender sobre desenvolvimento web.
 
+![Descrição da imagem](assets/photoProject.png)
+
 ## Descrição
 
 A página de receitas é um exemplo básico de estrutura de site que utiliza HTML e CSS para apresentar receitas de maneira organizada e visualmente agradável. O projeto foi desenvolvido para praticar e demonstrar conceitos essenciais, como:
